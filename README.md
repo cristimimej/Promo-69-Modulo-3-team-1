@@ -53,27 +53,17 @@ A partir de un dataset de **1.470 empleados** con 35 variables, desarrollamos un
 ## 🗂️ Estructura del repositorio
 
 ```
-project-da-promo-69-modulo-3-team-1/
 │
-├── 📓 Fase1_EDA.ipynb                    # Exploración y diagnóstico del dataset
-├── 📓 Fase2_Limpieza_ParejaA.ipynb       # Transformación — Pareja A
-├── 📓 Fase2_Limpieza_ParejaB.ipynb       # Transformación — Pareja B
-├── 📓 Fase3_Visualizacion_Unificada.ipynb # Visualizaciones + Random Forest
-├── 📓 Fase4_BBDD.ipynb                   # Base de datos MySQL
-├── 🐍 transform_ETLpy.py                 # ETL automatizado (Fase 5)
+Promo-69-Modulo-3-team-1/
 │
-├── 📁 data/
-│   ├── hr.csv                            # Dataset original
-│   └── hr_clean.csv                      # Dataset limpio
-│
-├── 📁 graficos/
-│   ├── g1_attrition_departamento.png
-│   ├── g2_attrition_satisfaccion.png
-│   ├── g3_salario_rol.png
-│   ├── g4_attrition_genero.png
-│   ├── g5_attrition_jobrole.png
-│   └── g6_heatmap_correlaciones.png
-│
+├── 📓 Fase1_EDA_Unificado.ipynb
+├── 📓 Fase2_Limpieza_Unificada.ipynb
+├── 📓 Fase3_Visualizacion_Unificada.ipynb
+├── 📓 FASE4_BBDD.ipynb
+├── 🐍 FASE5_transform.py
+├── 📄 CONSULTAS_SQL.sql
+├── 📄 hr.csv
+├── 📄 hr_clean.csv
 └── 📖 README.md
 ```
 
