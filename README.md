@@ -29,7 +29,7 @@
 
 ## 📋 Descripción del proyecto
 
-ABC Corporation, consultora tecnológica fundada en 1980 en California especializada en **Inteligencia Artificial y Machine Learning**, nos contrató para analizar por qué estaban perdiendo empleados.
+ABC Corporation, consultora tecnológica fundada en 1980 en California especializada en **Inteligencia Artificial y Machine Learning**, nos contrató para entender y resolver el reto de la fuga de talento que estaban experimentando.
 
 A partir de un dataset de **1.470 empleados** con 35 variables, desarrollamos un análisis completo que incluye exploración de datos, limpieza, visualizaciones, base de datos relacional y un modelo predictivo.
 
@@ -37,7 +37,7 @@ A partir de un dataset de **1.470 empleados** con 35 variables, desarrollamos un
 
 ---
 
-## 🚨 El problema
+## 🚨 El reto
 
 | Indicador | Valor |
 |-----------|-------|
@@ -328,4 +328,5 @@ Proyecto desarrollado con metodología **Agile / Scrum**:
 
 **Promo 69 · Módulo 3 · Team 1 · Adalab · Junio 2026**
 
-*Sabrina Gómez · Jezabel Sánchez · Cristina Millán · Jessica Hernández*# Proyecto-Modulo-3
+*Sabrina Gómez · Jezabel Sánchez · Cristina Millán · Jessica Hernández*
+
