@@ -18,12 +18,12 @@
 
 ## 👥 Equipo
 
-| Nombre | GitHub | Rol en el proyecto |
-|--------|--------|--------------------|
-| Sabrina Gómez | [@Sabri667](https://github.com/Sabri667) | Pareja B — Limpieza estructura + Visualizaciones |
-| Jezabel Sánchez | [@Jezi](https://github.com/Jezi) | Pareja B — Limpieza estructura + Visualizaciones |
-| Cristina Millán | [@cristimimej](https://github.com/cristimimej) | Pareja A — Limpieza valores + Visualizaciones |
-| Jessica Hernández | [@firenzejess](https://github.com/firenzejess) | Pareja A — Limpieza valores + Visualizaciones |
+| Nombre | GitHub |
+|--------|--------|
+| Sabrina Gómez | [@Sabri667](https://github.com/Sabri667) |
+| Jezabel Sánchez | [@Jezi](https://github.com/Jezi) |
+| Cristina Millán | [@cristimimej](https://github.com/cristimimej) |
+| Jessica Hernández | [@firenzejess](https://github.com/firenzejess) |
 
 ---
 
@@ -317,10 +317,9 @@ python transform_ETLpy.py
 ## 🤝 Metodología de trabajo
 
 Proyecto desarrollado con metodología **Agile / Scrum**:
-- Trabajo en parejas (Pareja A + Pareja B) para cada fase
+- Control de versiones con **Git** — cada miembro en su rama
+- Pull requests para integrar el trabajo en `main`
 - Puesta en común al finalizar cada fase
-- Control de versiones con **Git** — cada pareja en su rama
-- Pull requests para integrar el trabajo
 
 ---
 
@@ -329,3 +328,5 @@ Proyecto desarrollado con metodología **Agile / Scrum**:
 **Promo 69 · Módulo 3 · Team 1 · Adalab · Junio 2026**
 
 *Sabrina Gómez · Jezabel Sánchez · Cristina Millán · Jessica Hernández*
+
+</div>
